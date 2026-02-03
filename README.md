@@ -5,6 +5,7 @@ git-task
 2. В директории names создайте текстовый файл с вашими именами
 3. Сделайте commit-pull-push
 4. После этого исправьте этот Readme.md файл, включив туда ссылку на ваш файл. [Ссылки делаются так](https://help.github.com/articles/markdown-basics/#links)
+[ссылка тут](http://putin.kremlin.ru/bio/page-0)
 5. Сделайте commit-pull-push
 6. Допишите в разделе Сказка пару предложений истории.
 7. Сделайте commit-pull-push
