@@ -1,0 +1,9 @@
+Скачать githab desktop
+Создать новый репозиторий
+Добавить папку для проекта Балашова.txt
+Добавить файл 1.txt
+Сделать описание
+[Добавить ссылку](https://img.freepik.com/premium-photo/laptop-table-with-coffee-cup-paper-sheet-against-white-wall_408798-8565.jpg?semt=ais_hybrid)
+Написать сказку:
+Жил-был программист и умер от истощения.
+Сохранить
